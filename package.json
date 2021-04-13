@@ -1,0 +1,23 @@
+{
+  "name": "vanillaSaveNotes",
+  "version": "0.1.0",
+  "description": "Save notes on your webpage in localstorage",
+  "main": "js/vanilla-save-notes.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptUtilities/vanillaSaveNotes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavaScriptUtilities/vanillaSaveNotes/issues"
+  },
+  "homepage": "https://github.com/JavaScriptUtilities/vanillaSaveNotes#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-minify": "^3.1.0",
+    "jshint": "^2.12.0"
+  }
+}
